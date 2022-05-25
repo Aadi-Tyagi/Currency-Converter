@@ -16,7 +16,7 @@ Open Command Prompt with admin privileges and copy the following commands one by
 
 1. pip -V 
 2. pip install tk
-3. pip install --upgrade Pillow
+3. pip install Pillow
 4. pip install forex-python
 
         
